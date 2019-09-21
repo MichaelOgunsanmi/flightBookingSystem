@@ -1,2 +1,2 @@
 # flightBookingSystem
- A database design for a flight book system using MySQL
+ A database design for a flight booking system using MySQL
